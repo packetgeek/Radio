@@ -4,4 +4,4 @@ Following is code that I've written to access the Bosch BMP085 sensor (temperatu
 * temp.c - returns the current temperature
 
 # NOTICE
-This isn't actually a fork.  I will shortly be rectifying how github treats this repository, so that it no longer annoys matheriel.
+This isn't actually a fork.  I will shortly be rectifying how github treats this repository, so that it no longer annoys matheriel.  In short, I will delete the fork and recreate it as a new repository.
